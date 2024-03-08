@@ -24,7 +24,7 @@ export default function Home() {
           style={styles.eyeIconContainer}
         >
           <Image
-            source={passwordVisible ? require('../assets/images/icons8-eye-48.png') : require('../assets/images/icons8-invisible-48.png')} // Carrega uma imagem diferente dependendo da visibilidade da senha
+            source={passwordVisible ? require('../assets/images/icons8-invisible-24.png') : require('../assets/images/icons8-invisible-26.png')} // Carrega uma imagem diferente dependendo da visibilidade da senha
             style={styles.eyeIcon}
           />
         </TouchableOpacity>

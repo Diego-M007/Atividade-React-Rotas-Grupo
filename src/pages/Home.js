@@ -13,7 +13,7 @@ export default function Home() {
     <ImageBackground source={imgB} style={styles.imageBackground}>
       <HeaderRotas />
       <Text style={styles.text}>
-        Bem vindos ao nosso site, esta é nossa Home, selecione para qual página deseja ir clicando em algum dos botões
+        Bem vindos ao nosso site, esta é nossa Home, selecione para qual página deseja ir clicando em algum dos botões. Nosso grupo é formado por: Diego Miranda, Davi Lacerda, Carol e Nicolas Cardozo
       </Text>
     </ImageBackground>
   );
